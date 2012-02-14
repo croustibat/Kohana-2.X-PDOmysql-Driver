@@ -1,0 +1,6 @@
+This is a simple PDOmysql driver for Kohana 2.X project.
+
+Just add Pdomysql.php into /system/libraries/drivers/Database/
+
+Then in your config/database.php file, add 'connection' => array ( 'type' => 'pdomysql' … ) 
+
